@@ -40,6 +40,7 @@
 - [Betabound](https://betabound.com) :: Beta testing community for new products.
 - [Open Launch](https://open-launch.com) :: Open-source alternative to Product Hunt. Free and community-driven.
 - [Launching Next](https://www.launchingnext.com) :: Curated list of upcoming product launches.
+- [ProductDirs](https://productdirs.com/) :: Discover and submit AI tools and tech products with daily launches and curated reviews.
 - [Openhunts](https://openhunts.com) :: Launch and hunt products openly.
 - [PeerPush](https://peerpush.net) :: Get instant visibility for your product by people who care now.
 - [Pitchwall](https://pitchwall.co) :: Premium startup showcase with curated placements.
@@ -75,6 +76,7 @@
 - [Altern](https://altern.ai) :: AI product directory for makers.
 - [AI Directory](https://aidirectory.wiki) :: Curated list of the best AI tools.
 - [AI Dir](https://aidir.wiki) :: AI tools directory.
+- [ThisTools](https://thistools.app/) :: Discover and upvote tech products launching daily.
 - [Futurepedia](https://futurepedia.wiki) :: AI tools aggregator with daily launch listings.
 - [uNeed](https://uneed.best) :: Discover and share AI tools every day.
 - [Dang AI](https://dang.ai) :: Directory of AI tools and future technology resources.
