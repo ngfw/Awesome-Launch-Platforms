@@ -104,6 +104,7 @@
 - [G2](https://www.g2.com) :: The leading platform for discovering and comparing business software.
 - [Capterra](https://www.capterra.com) :: Software discovery and review platform for business buyers.
 - [GetApp](https://www.getapp.com) :: Business apps marketplace by Gartner.
+- [SaaSCity](https://saascity.io) :: Gamified SaaS directory where each listing becomes a building on an interactive isometric city map.
 - [Software Advice](https://www.softwareadvice.com) :: Software recommendations for businesses.
 - [TrustRadius](https://www.trustradius.com) :: B2B software reviews from verified users.
 - [TrustMRR](https://trustmrr.com) :: The database of verified startup revenues.
