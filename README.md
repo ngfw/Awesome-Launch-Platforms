@@ -61,6 +61,7 @@
 - [neeed.directory](https://neeed.directory) :: Discover and submit new tools and products.
 - [startupfa.st](https://www.startupfa.st) :: Startup directory with launch exposure.
 - [aat.ee](https://www.aat.ee) :: Product launches and discovery.
+- [RadarMakers](https://radarmakers.com) :: Free launch directory for indie makers to discover new products and list their own.
 - [LaunchCaster](https://launchcaster.xyz) :: Web3-native product launches.
 
 ---
