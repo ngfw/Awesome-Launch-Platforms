@@ -94,6 +94,7 @@
 - [acidtools.com](https://acidtools.com) :: Directory of productivity and AI tools.
 - [aiwith.me](https://aiwith.me) :: Discover the latest and best AI tools.
 - [Launch](https://trylaunch.ai) :: The best new AI products, every day.
+- [MeetNewAI](https://meetnewai.com) :: Free bilingual directory of AI tools, AI games, and MCP servers by the job you need done.
 
 ---
 
