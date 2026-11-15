@@ -62,6 +62,7 @@
 - [startupfa.st](https://www.startupfa.st) :: Startup directory with launch exposure.
 - [aat.ee](https://www.aat.ee) :: Product launches and discovery.
 - [LaunchCaster](https://launchcaster.xyz) :: Web3-native product launches.
+- [Awesome Indie](https://awesomeindie.com) :: Daily launch platform for indie makers, ranked by community upvotes.
 
 ---
 
